@@ -3,5 +3,7 @@
 .idea*
 .classpath
 .project
+.history
+target
 **/target
 project/project
